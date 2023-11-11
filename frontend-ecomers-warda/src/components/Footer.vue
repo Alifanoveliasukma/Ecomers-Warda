@@ -14,7 +14,7 @@
 
                     <p>
 
-                        Toko Online Shopping/Store Terpercaya di Indonesia. Jual Beli Aman & Harga Termurah! Belanja
+                        Warda Ecomers Terpercaya di Indonesia. Jual Beli Aman & Harga Termurah! Belanja
 
                         sekarang.
 
@@ -148,9 +148,7 @@
 
                     <p>
 
-                        <i class="fa fa-map-marker"></i> Desa Gedang Alas, RT/RW : 008/002, Kecamatan Gajah, Kabupaten
-
-                        Demak, Jawa Tengah, 58591
+                        <i class="fa fa-map-marker"></i> Sukabumi-Cicurug
 
                     </p>
 
@@ -164,7 +162,7 @@
 
                     <hr>
 
-                    © <strong>Warda</strong> 2023
+                    © <strong>Warda-Ecomers</strong> 2023
 
                 </div>
 

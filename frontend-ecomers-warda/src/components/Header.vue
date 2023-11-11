@@ -12,7 +12,7 @@
 
                         <router-link :to="{name: 'home'}" class="text-decoration-none" data-abc="true">
 
-                            <span class="logo"><i class="fa fa-apple-alt"></i> APPLE STORE </span>
+                            <span class="logo"><i class="fab fa-app-store"></i> Warda Ecomers </span>
 
                         </router-link>
 

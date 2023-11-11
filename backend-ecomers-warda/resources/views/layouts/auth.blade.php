@@ -14,7 +14,7 @@
 
     <meta name="author" content="">
 
-    <link rel="shortcut icon" href="{{ asset('assets/img/company.png') }}" type="image/x-icon">
+    <link rel="shortcut icon" type="image/x-icon">
 
     <title>{{ $title ?? config('app.name') }} - Admin</title>
 
